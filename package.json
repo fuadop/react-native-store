@@ -1,6 +1,6 @@
 {
-  "name": "react-native-store",
-  "version": "0.4.1",
+  "name": "@fuadop/react-native-store",
+  "version": "0.1.0",
   "description": "A simple database base on react-native AsyncStorage.",
   "main": "./lib/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thewei/react-native-store.git"
+    "url": "https://github.com/fuadop/react-native-store.git"
   },
   "jest": {
     "scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
@@ -50,9 +50,7 @@
     "babel-preset-stage-0": "^6.3.13",
     "jest": "^0.1.40",
     "jest-cli": "^0.8.2",
-    "react-native": "^0.18.0-rc"
-  },
-  "dependencies": {
+    "react-native": "^0.18.0-rc",
     "@react-native-async-storage/async-storage": "^1.15.14"
   }
 }
