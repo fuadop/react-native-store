@@ -1,6 +1,6 @@
 {
   "name": "@fuadop/react-native-store",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple database base on react-native AsyncStorage.",
   "main": "./lib/index.js",
   "scripts": {
@@ -50,7 +50,9 @@
     "babel-preset-stage-0": "^6.3.13",
     "jest": "^0.1.40",
     "jest-cli": "^0.8.2",
-    "react-native": "^0.18.0-rc",
+    "react-native": "^0.18.0-rc"
+  },
+  "dependencies": {
     "@react-native-async-storage/async-storage": "^1.15.14"
   }
 }
