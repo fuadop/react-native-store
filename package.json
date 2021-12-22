@@ -1,6 +1,6 @@
 {
   "name": "@fuadop/react-native-store",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple database base on react-native AsyncStorage.",
   "main": "./lib/index.js",
   "scripts": {
@@ -40,9 +40,9 @@
   "author": "thewei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thewei/react-native-store/issues"
+    "url": "https://github.com/fuadop/react-native-store/issues"
   },
-  "homepage": "https://github.com/thewei/react-native-store",
+  "homepage": "https://github.com/fuadop/react-native-store",
   "devDependencies": {
     "babel-cli": "^6.4.0",
     "babel-jest": "^6.0.1",
