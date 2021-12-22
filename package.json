@@ -51,5 +51,8 @@
     "jest": "^0.1.40",
     "jest-cli": "^0.8.2",
     "react-native": "^0.18.0-rc"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.15.14"
   }
 }

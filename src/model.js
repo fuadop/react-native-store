@@ -1,5 +1,5 @@
 'use strict';
-var AsyncStorage = require('react-native').AsyncStorage;
+var AsyncStorage = require('@react-native-async-storage/async-storage');
 var Util = require('./util.js');
 var Filter = require('./filter.js')
 

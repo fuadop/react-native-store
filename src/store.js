@@ -1,6 +1,6 @@
 'use strict';
 
-var AsyncStorage = require('react-native').AsyncStorage;
+var AsyncStorage = require('@react-native-async-storage/async-storage');
 var Model = require('./model.js');
 var Util = require('./util.js');
 
